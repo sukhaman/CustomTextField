@@ -8,7 +8,7 @@
 import UIKit
 
 @IBDesignable
-public class TextFieldRightIcon: UITextField {
+public class SSTextFieldRightIcon: UITextField {
 
     public override func rightViewRect(forBounds bounds: CGRect) -> CGRect {
             var textRect = super.rightViewRect(forBounds: bounds)

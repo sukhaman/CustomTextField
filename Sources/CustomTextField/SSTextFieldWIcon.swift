@@ -7,7 +7,7 @@
 
 import UIKit
 
-public class TextFieldWIcon: UITextField {
+public class SSTextFieldWIcon: UITextField {
 
     public override func leftViewRect(forBounds bounds: CGRect) -> CGRect {
             var textRect = super.leftViewRect(forBounds: bounds)
